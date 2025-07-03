@@ -994,7 +994,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions, issues, or contributions, please contact the development team.
-
----
-
-**SilverApp Backend** - A comprehensive social media platform built for the Chinese market with enterprise-grade security, scalability, and performance.
